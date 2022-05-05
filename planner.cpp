@@ -1,12 +1,4 @@
-﻿// This file is part of the CBS planner code for the disappearables_CHI2022 project.
-// See file <filename> or go to <url> for full license details.
-// 
-// A license file for the C++ planner code will be added soon. Please do not modify or distribute the code until the license file is added.
-// 
-// Author: Yi Zheng
-// Email: yzheng63@usc.edu
-//
-
+﻿
 #include <iostream>
 #include "CBS.h"
 #include <iostream>
