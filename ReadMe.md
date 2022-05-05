@@ -1,4 +1,5 @@
-This is the CBS-based planner code for the disappearables_CHI2022 project (https://github.com/mitmedialab/disappearables_CHI2022). The planner plans toios robot paths on a map that has either one or two stages (one upper stage and one lower stage).
+This is the CBS-based planner code for the disappearables_CHI2022 project (https://github.com/mitmedialab/disappearables_CHI2022). 
+The planner plans toios robot paths on a map that has either one or two stages (one upper stage and one lower stage).
 
 Author: Yi Zheng, Email: yzheng63@usc.edu
 
